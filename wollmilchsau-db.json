@@ -1,0 +1,47 @@
+{
+  "Events": [
+    {
+      "id": 1,
+      "title": "Terra Preta",
+      "date": "18.07.24",
+      "daytime": "18:00 Uhr",
+      "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
+      "credits": "<span>Drehbuch:</span> Alina Cyranek <span>Regie:</span> Alina Cyranek & Falk Schuster <span>Produktion:</span> hug films <span>Layout:</span> Tim Romanowsky, Alexander Schmidt, Falk Schuster <span>Animation:</span> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <span>Compositing, Colorgrading:</span> Julian Quitsch",
+      "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id": 2,
+      "title": "Terra Preta 2",
+      "date": "19.08.24",
+      "daytime": "19:00 Uhr",
+      "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
+      "credits": "<span>Drehbuch:</span> Alina Cyranek <span>Regie:</span> Alina Cyranek & Falk Schuster <span>Produktion:</span> hug films <span>Layout:</span> Tim Romanowsky, Alexander Schmidt, Falk Schuster <span>Animation:</span> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <span>Compositing, Colorgrading:</span> Julian Quitsch",
+      "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ],
+    "Posts": [
+    {
+      "id": 1,
+      "title": "Post 01",
+      "date": "20.07.24",
+      "description": "Beschreibung des Post 01",
+      "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ["https://julianquitsch.de/images/anima/anima02.webp",
+                "https://julianquitsch.de/images/anima/anima03.webp"]
+    },
+    {
+      "id": 2,
+      "title": "Post 02",
+      "date": "21.08.24",
+      "description": "Beschreibung des Post 01",
+      "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": ""
+    }
+  ],
+  "informations": {
+      "aboutHeadline": "Eierlegende Wollmilchsau",
+      "aboutText": "Aufgewachsen in Süddeutschland, im Land der Spätzle und Maultaschen, Diplom-Studium an der Burg Giebichenstein Kunsthochschule Halle, Studiengang Multimedia | VR-Design, seit 2011 selbständig tätig in Halle (Saale) im Bereich Filmproduktion, Postproduktion und Digitale Animation. Ich lebe in Halle (Saale) und arbeite freiberuflich in Synergie mit einer kreativen Bürogemeinschaft, die eine große Bandbreite des filmischen Schaffens beherbergt. Darunter Digitale Animation, Compositing, Kameraarbeit, Montage und Colorgrading bis hin zur Koordination von Produktion und Postproduktion von Kinofilmen.",
+      "contactText": "Beteiligung an zahlreichen Filmprojekten die schließlich Präsentationen, Nominierungen und Prämierungen auf Filmfestivals erfuhren. Hier eine Auswahl der Festivalauswertung aktueller Projekte.",
+      "fundingText": "Bei Anfragen oder Interesse an Kooperation stehen Ihnen alle Kanäle der Kontaktaufnahme offen. Ich freue mich auf Ihre Nachricht oder Anruf."
+    }
+}
