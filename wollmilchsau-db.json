@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Pflanzenkohle",
       "date": "18.07.24",
       "daytime": "18:00 Uhr",
@@ -10,7 +10,7 @@
       "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Terra Preta 2",
       "date": "19.08.24",
       "daytime": "19:00 Uhr",
@@ -21,7 +21,7 @@
   ],
     "posts": [
     {
-      "id": "1",
+      "id": 1,
       "title": "Pflanzen eintopfen",
       "date": "20.07.24",
       "description": "Beschreibung des Post 01",
@@ -30,7 +30,7 @@
                 "https://julianquitsch.de/images/anima/anima03.webp"]
     },
     {
-      "id": "2",
+      "id": 2,
       "title": "Gewächshaus bauen",
       "date": "21.08.24",
       "description": "Beschreibung des Post 01",
