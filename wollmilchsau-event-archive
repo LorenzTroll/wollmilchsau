@@ -1,46 +1,40 @@
 {
-  "eventsByYear": {
-    "2022": [
-      {
-        "id": 1,
-        "title": "Pflanzenkohle",
-        "date": "18.07.22",
-        "daytime": "18:00 Uhr",
-        "description": "Beschreibung des Events 2022",
-        "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "image": [
-          "https://julianquitsch.de/images/anima/anima02.webp",
-          "https://julianquitsch.de/images/anima/anima03.webp"
-        ]
-      }
-    ],
-    "2023": [
-      {
-        "id": 2,
-        "title": "Terra Preta 2",
-        "date": "19.08.23",
-        "daytime": "19:00 Uhr",
-        "description": "Beschreibung des Events 2023",
-        "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "image": [
-          "https://julianquitsch.de/images/anima/anima02.webp",
-          "https://julianquitsch.de/images/anima/anima03.webp"
-        ]
-      }
-    ],
-    "2024": [
-      {
-        "id": 3,
-        "title": "Event 2024 Beispiel",
-        "date": "20.05.24",
-        "daytime": "20:00 Uhr",
-        "description": "Beschreibung des Events 2024",
-        "thumbnail": "https://images.unsplash.com/photo-1628782193139-b9d2e22afa31?q=80&w=2430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-        "image": [
-          "https://julianquitsch.de/images/anima/anima02.webp",
-          "https://julianquitsch.de/images/anima/anima03.webp"
-        ]
-      }
-    ]
-  }
+  "events": [
+    {
+      "id": 1,
+      "title": "Pflanzenkohle",
+      "date": "18.07.22",
+      "daytime": "18:00 Uhr",
+      "description": "Beschreibung des Events 2022",
+      "thumbnail": "https://images.unsplash.com/photo-1615671524827-c1fe3973b648?q=80&w=2000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Terra Preta 2",
+      "date": "19.08.23",
+      "daytime": "19:00 Uhr",
+      "description": "Beschreibung des Events 2023",
+      "thumbnail": "https://images.unsplash.com/photo-1600277259675-0edbcb3182d0?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Event 2024 Beispiel",
+      "date": "20.05.24",
+      "daytime": "20:00 Uhr",
+      "description": "Beschreibung des Events 2024",
+      "thumbnail": "https://images.unsplash.com/photo-1628782193139-b9d2e22afa31?q=80&w=2430&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": [
+        "https://julianquitsch.de/images/anima/anima02.webp",
+        "https://julianquitsch.de/images/anima/anima03.webp"
+      ]
+    }
+  ]
 }
