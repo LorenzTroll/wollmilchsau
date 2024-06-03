@@ -26,7 +26,7 @@
   ],
     "posts": [
     {
-      "id": 3,
+      "id": 1,
       "title": "Pflanzen eintopfen",
       "date": "20.07.24",
       "description": "Beschreibung des Post 01",
@@ -60,7 +60,7 @@
                 "link-id": "2",
                 "link-name": "Link B",
                 "link-url": "https://fonts.google.com/selection"
-                },
+                }
       ]
     }
   ],
