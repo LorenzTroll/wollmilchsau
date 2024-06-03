@@ -1,4 +1,8 @@
 {
+  "information": {
+    "archiveTitle": "Archive Title Example",
+    "archiveText": "This is an example of archive text. It provides an introduction or description of the events listed below."
+  },
   "events": [
     {
       "id": 1,
