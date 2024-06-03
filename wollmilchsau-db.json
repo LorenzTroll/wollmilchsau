@@ -39,7 +39,7 @@
                 {
                 "link-id": "1",
                 "link-name": "Link A",
-                "link-url": "https://kulturbanause.de/blog/silbentrennung-im-browser-css-eigenschaft-hyphens/",
+                "link-url": "https://kulturbanause.de/blog/silbentrennung-im-browser-css-eigenschaft-hyphens/"
                 }
       ]
       
@@ -55,7 +55,7 @@
                 {
                 "link-id": "2",
                 "link-name": "Link B",
-                "link-url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor",
+                "link-url": "https://developer.mozilla.org/en-US/docs/Web/CSS/cursor"
                 }
       ]
     }
